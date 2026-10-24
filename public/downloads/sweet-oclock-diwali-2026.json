@@ -1,0 +1,265 @@
+{
+  "catalog": {
+    "title": "Sweet O'Clock Diwali Gifting Catalog 2026",
+    "season": "Diwali 2026",
+    "pages": 18,
+    "tagline": [
+      "Homemade",
+      "Handcrafted",
+      "No Refined Sugar",
+      "No Preservatives"
+    ],
+    "currency": "INR",
+    "priceNote": "Prices are indicative and may vary based on the items selected, quantity and customisation. Personalisation & corporate branding are available at an additional cost.",
+    "closingNote": "Prices may vary with customisation. Custom orders are welcome."
+  },
+  "about": {
+    "heading": "About Us",
+    "eyebrow": "Our Story",
+    "paragraphs": [
+      "Sweet O'Clock, a brand of Cosmos Greens, is a Nagpur-based homemade dry fruit laddu brand founded in 2025 by women who are Doctorate from agricultural background.",
+      "Every laddu is handmade in small batches with quality ingredients - no refined sugar, no preservatives - so every box tastes like it was made at home, with love.",
+      "From kids to new mothers, everyone deserves access to nourishing food - even in the busiest phases of life.",
+      "From festive gifting to bulk corporate orders, every hamper can be customised to your requirements and budget."
+    ]
+  },
+  "contact": {
+    "phones": [
+      "9970976706",
+      "8600600048"
+    ],
+    "whatsapp": "8265000818",
+    "instagram": "sweetoclock___",
+    "city": "Nagpur",
+    "branches": [
+      "Pannase Layout",
+      "Amravati Road",
+      "Omkar Nagar"
+    ]
+  },
+  "hampers": [
+    {
+      "page": 3,
+      "slug": "signature-box",
+      "name": "Sweet O'Clock Signature Box",
+      "image": "/img/signature-box.jpg",
+      "packaging": null,
+      "items": [
+        "Sweet O'Clock Assorted Laddu"
+      ],
+      "price": 180,
+      "options": [
+        {
+          "label": "4 pieces (mini)",
+          "weight": "120 gm",
+          "price": 180
+        },
+        {
+          "label": "12 pieces",
+          "weight": "350 gm",
+          "price": 580
+        },
+        {
+          "label": "16 pieces",
+          "weight": "470 gm",
+          "price": 780
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "slug": "white-gift-box",
+      "name": "White Gift Box",
+      "image": "/img/white-gift-box.jpg",
+      "packaging": "White gift box with festive tag",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (350 gm)"
+      ],
+      "price": 550
+    },
+    {
+      "page": 5,
+      "slug": "pink-petal-jar-gift",
+      "name": "Pink Petal Jar Gift",
+      "image": "/img/pink-petal-jar-gift.jpg",
+      "packaging": null,
+      "items": [
+        "Spicy Cashew (125 gm)",
+        "Almonds (125 gm)",
+        "Roasted Pistachios (125 gm)",
+        "Kishmish (225 gm)"
+      ],
+      "price": 650
+    },
+    {
+      "page": 6,
+      "slug": "blush-gift-box",
+      "name": "Blush Gift Box",
+      "image": "/img/blush-gift-box.jpg",
+      "packaging": "Reusable frosted PVC Bag",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (350 gm)"
+      ],
+      "price": 700
+    },
+    {
+      "page": 7,
+      "slug": "clear-gift-box",
+      "name": "Clear Gift Box",
+      "image": "/img/clear-gift-box.jpg",
+      "packaging": "Reusable gifting goodie box",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (350 gm)",
+        "Handcrafted Pichwai wooden Diya (2 N)"
+      ],
+      "price": 750
+    },
+    {
+      "page": 8,
+      "slug": "silver-mist-tray",
+      "name": "Silver Mist Tray",
+      "image": "/img/silver-mist-tray.jpg",
+      "packaging": "Reusable Wooden tray",
+      "items": [
+        "Spicy Cashew (125 gm)",
+        "Roasted Almond (125 gm)",
+        "Roasted Pistachios (125 gm)",
+        "Kishmish (225 gm)"
+      ],
+      "price": 860
+    },
+    {
+      "page": 9,
+      "slug": "net-gift-box",
+      "name": "Net Gift Box",
+      "image": "/img/net-gift-box.jpg",
+      "packaging": "White gift box with festive tag",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (350 gm)",
+        "Traditional Indian namkeen (Chivda/chakali/mathari by customer's choice) (450 gm)"
+      ],
+      "price": 900
+    },
+    {
+      "page": 10,
+      "slug": "signature-golden-tray-hamper",
+      "name": "Signature Golden Tray Hamper",
+      "image": "/img/signature-golden-tray-hamper.jpg",
+      "packaging": "Reusable Wooden Tray",
+      "items": [
+        "Sweet O'Clock Assorted Laddu box (240 gm)",
+        "Crunchy Roasted Millet Mix (60 gm)",
+        "Jowar almond cookies (4 N)",
+        "Juicy blueberries with a spicy masala twist (35 gm)",
+        "Chatpata Cranberry tossed in tangy Indian spices (75 gm)",
+        "Elegant gold cut work diya (2 N)"
+      ],
+      "price": 1000
+    },
+    {
+      "page": 11,
+      "slug": "royal-net-hamper",
+      "name": "Royal Net Hamper",
+      "image": "/img/royal-net-hamper.jpg",
+      "packaging": "Reusable Wooden Tray",
+      "items": [
+        "Sweet O'Clock Assorted Laddu box (120 gm)",
+        "Crunchy Roasted Millet Mix (60 gm)",
+        "Jowar almond cookies (4 N)",
+        "Blueberries with a spicy masala twist (35 gm)",
+        "Chatpata Cranberry tossed in tangy Indian spices (75 gm)",
+        "Elegant gold cut work diya (2 N)"
+      ],
+      "price": 1100
+    },
+    {
+      "page": 12,
+      "slug": "emerald-treasure-box",
+      "name": "Emerald Treasure Box",
+      "image": "/img/emerald-treasure-box.jpg",
+      "packaging": "Sturdy layered keepsake box",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (300 gm)",
+        "Roasted Almonds (60 gm)",
+        "Roasted Pistachios (60 gm)",
+        "Masala Cashew (60 gm)"
+      ],
+      "price": 1200
+    },
+    {
+      "page": 13,
+      "slug": "grand-bloom-basket",
+      "name": "Grand Bloom Basket",
+      "image": "/img/grand-bloom-basket.jpg",
+      "packaging": "Reusable handwoven rope basket",
+      "items": [
+        "Sweet O'Clock Assorted Laddu box (120 gm)",
+        "Sweet Aromatic mouth freshener (100 gm)",
+        "Mini snake plant with planter",
+        "Shubh Labh card (1 pair)",
+        "Handcrafted Pichwai wooden Diya (2 N)",
+        "Traditional aromatic dhoop (4 N)"
+      ],
+      "price": 1300
+    },
+    {
+      "page": 14,
+      "slug": "golden-garden-tray",
+      "name": "Golden Garden Tray",
+      "image": "/img/golden-garden-tray.jpg",
+      "packaging": "Pichwai gold metallic tray",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (350 gm)",
+        "Blue honey (145 gm)",
+        "Roasted Almonds (60 gm)",
+        "Roasted Pistachios (60 gm)",
+        "Kishmish (60 gm)",
+        "Handcrafted Pichwai wooden Diya (1 N)",
+        "Sweet Aromatic mouth freshener (100 gm)"
+      ],
+      "price": 1800
+    },
+    {
+      "page": 15,
+      "slug": "floral-delight-box",
+      "name": "Floral Delight Box",
+      "image": "/img/floral-delight-box.jpg",
+      "packaging": "A charming floral box",
+      "items": [
+        "Sweet O'Clock Assorted Laddu (300 gm × 2)",
+        "Khajur Laddu (120 gm)",
+        "Chocolate Paan Bite (2 N)",
+        "Blueberry Bite (2 N)"
+      ],
+      "price": 2000
+    },
+    {
+      "page": 16,
+      "slug": "golden-weave-basket",
+      "name": "Golden Weave Basket",
+      "image": "/img/golden-weave-basket.jpg",
+      "packaging": "Handmade bamboo Basket",
+      "items": [
+        "Sweet O'Clock Assorted Laddu Tray (350 gm)",
+        "Rich date Khajur Fudge (250 gm)"
+      ],
+      "price": 2200
+    },
+    {
+      "page": 17,
+      "slug": "royal-heritage-box",
+      "name": "Royal Heritage Box",
+      "image": "/img/royal-heritage-box.jpg",
+      "packaging": "Reusable Royal keepsake box",
+      "items": [
+        "Sweet O'Clock Assorted Laddu box (350 gm)",
+        "Almond Praline (2 N)",
+        "Blueberry Bite (2 N)",
+        "Zesty orange bite (2 N)",
+        "Chocolate Crunch bite (2 N)",
+        "Handcrafted floral wax diya (2 N)"
+      ],
+      "price": 2500
+    }
+  ]
+}
