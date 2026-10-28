@@ -307,12 +307,7 @@ function Home() {
               <DownloadLink href="/downloads/sweet-oclock-diwali-2026-catalog.pdf">
                 Catalog PDF
               </DownloadLink>
-              <DownloadLink href="/downloads/sweet-oclock-diwali-2026.csv">
-                Hampers CSV
-              </DownloadLink>
-              <DownloadLink href="/downloads/sweet-oclock-diwali-2026.json">
-                Full data JSON
-              </DownloadLink>
+              
             </div>
           </div>
         </section>
