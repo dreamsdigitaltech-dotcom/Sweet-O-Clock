@@ -897,7 +897,9 @@ function Home() {
               &copy; {new Date().getFullYear()} Sweet O&apos;Clock · All rights
               reserved · Diwali 2026 Edition
             </span>
-            <span>Handcrafted with love in Nagpur</span>
+            <div className="flex flex-col items-center gap-2 sm:items-end"></div>
+            <span>Handcrafted with love </span>
+            <span> Powered by <strong className="text-foreground">Dreams Digital Technologies</strong> </span>
           </div>
         </div>
       </footer>
